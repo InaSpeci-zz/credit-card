@@ -1,0 +1,23 @@
+body {
+   margin:50px auto;
+}
+
+.payment-card  span {
+   padding-top:10px;
+}
+
+.payment-card img {
+   padding-top:30px;
+}
+
+.payment-card .font {
+   font-size:9px;
+}
+
+.payment-card .paddingTop {
+   padding-top:10px;
+}
+
+.success-payment .font {
+   font-size:25px;
+}
